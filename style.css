@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(covid-india-vaccine.jpg);
+  background-size: cover;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #3047dd;
+}
+
+#booking-form label,
+#booking-form input,
+#booking-form button {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#booking-form button {
+  padding: 10px;
+}
+
+#booking-status {
+  margin-top: 40px;
+}
